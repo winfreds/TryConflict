@@ -2,6 +2,6 @@ Part1
 
 Zick found an apple
 
-part
+part2
 
 Zick found a dog
