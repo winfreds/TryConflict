@@ -2,4 +2,8 @@ Part1
 
 Zick found an apple
 
+Part2
+
+Zick found a dog
+
 
