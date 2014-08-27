@@ -2,3 +2,7 @@ Part1
 
 Zick found an apple
 
+Part2
+
+Zcik found a cat
+
